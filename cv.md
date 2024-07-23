@@ -11,7 +11,14 @@
 ### About Me
 Studied in Timiryazevka, Bachelor of Applied Computer Science.\
 Next was the job search process and training.\
-I got a job at an RSS company as a programmer. I've been working here for 2.5 years now.\ 
+I got a job at an RSS company as a programmer. I've been working here for 2.5 years now.\
 This is a service center that repairs various devices - laptops, monoblocks, PCs, monitors, etc.\
 I participate in fixes of specialized programs for managers and logisticians.\
-Developed in C++.\
+Developed in C++.
+***
+### Skills
+* C++, Python, JavaScript Basics
+* SQL Basics (queries)
+* HTML5
+* Git, GitHub
+* VS Code
