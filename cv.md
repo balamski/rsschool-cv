@@ -9,12 +9,14 @@
 [LinkedIn](https://www.linkedin.com/in/balamski97/)
 ***
 ### About Me
-Studied in Timiryazevka, Bachelor of Applied Computer Science.\
+Studied in Timiryazev Academy, Bachelor of Applied Computer Science.\
 Next was the job search process and training.\
 I got a job at an RSS company as a programmer. I've been working here for 2.5 years now.\
 This is a service center that repairs various devices - laptops, monoblocks, PCs, monitors, etc.\
 I participate in fixes of specialized programs for managers and logisticians.\
 Developed in C++.
+
+I work partially remotely, so I can devote time to studying. I really hope that I will achieve the basics of front-end development and be able to join such a team as an employee.
 ***
 ### Skills
 * C++, Python, JavaScript Basics
